@@ -1,0 +1,28 @@
+.App {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+
+  /* border: 5px solid black; */
+  text-align: center;
+  background-color: #f7f8fc;
+  min-height: 25vh;
+  max-width: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.helpdesk {
+  font-size: 28px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.helpdesk:hover {
+  font-size: 35px;
+  background-color: #012202;
+  color: white;
+}

@@ -1,0 +1,23 @@
+.flashcard-container {
+  padding: 15px;
+  border-radius: 3px;
+  background-color: #f1e6e6;
+  box-shadow: 2px 2px 4px rgba(150, 149, 149, 0.4);
+}
+.flashcard-container:hover {
+  font-size: 15px;
+}
+
+.flashcard-button {
+  background: transparent;
+  padding: 8px;
+  border-radius: 3px;
+  border-color: blue;
+  margin: 5px;
+  width: 150px;
+  box-shadow: 2px 2px 4px rgba(150, 149, 149, 0.4);
+}
+
+.flashcard-button:hover {
+  font-size: 15px;
+}
